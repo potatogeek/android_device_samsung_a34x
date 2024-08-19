@@ -1,6 +1,5 @@
 ro.display.series=Samsung A34 5G (by potato)
 ro.product.board=mt6877v
-ro.board.platform=MediaTek
 sys.usb.controller=13200000.dwc3
 ro.boot.dynamic_partitions=true
 ro.boot.boot_devices=13500000.ufs
